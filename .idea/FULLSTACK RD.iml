@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$" />
+    <output-test url="file://$MODULE_DIR$" />
+    <annotation-paths>
+      <root url="file://$MODULE_DIR$" />
+    </annotation-paths>
+    <javadoc-paths>
+      <root url="file://$MODULE_DIR$" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="FULLSTACK RD" level="project" />
+  </component>
+</module>
